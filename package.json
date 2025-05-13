@@ -1,0 +1,17 @@
+{
+  "name": "notion-md-export",
+  "version": "1.0.0",
+  "description": "使用するoss:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^3.0.1",
+    "dotenv": "^16.5.0",
+    "notion-to-md": "^3.1.9"
+  }
+}
